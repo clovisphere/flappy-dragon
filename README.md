@@ -4,9 +4,7 @@
 
 Going through Herbert Wolverson's excellent [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/), and `flappy` (bird) is one the projects you get to make with the author:-)
 
-
 ![flappy dragon](./flappy.gif)
-
 
 ## Usage
 
